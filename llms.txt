@@ -1,0 +1,34 @@
+# DGL — Data Governance Latam
+
+> El ecosistema de data privacy, data governance, ciberseguridad y legal AI en Latinoamérica. Consultoría, talento especializado, formación ejecutiva e investigación en un solo ecosistema para organizaciones de la región. Tu Privacy Partner™.
+
+## Ecosistema
+
+DGL opera tres motores integrados:
+
+- [Consultoría — datagovernancelatam.com](https://www.datagovernancelatam.com): Asesoría en data governance, privacidad y ciberseguridad para organizaciones en toda Latinoamérica. Más de 20 años de práctica, +12 países con proyectos activos.
+- [Talento — dgltalent.com](https://www.dgltalent.com): Plataforma de búsqueda y selección de talento especializado en privacidad de datos, ciberseguridad, governance e IA responsable. Matching semántico, informes de compatibilidad y background checks.
+- [Formación — dgl.academy](https://www.dgl.academy): Formación ejecutiva con Universidad Austral. Diplomaturas, cursos y certificaciones en data governance, privacidad y ciberseguridad. Más de 1.500 profesionales formados en 5 países.
+
+## Research
+
+- **Estudio de Remuneraciones Argentina 2026** (con CECyD — Universidad Austral): análisis de salarios y condiciones del mercado laboral en privacidad, governance y ciberseguridad en Argentina. Mediana salarial relevada: US$ 43.728. Más de 110 respuestas válidas, 5 verticales.
+- **Estado de la Privacidad en LATAM**: informe regional sobre madurez regulatoria y práctica de privacidad en Latinoamérica.
+- **Radar de IA Responsable**: seguimiento de tendencias, regulación y buenas prácticas de IA en la región.
+- **Índice DGL de Madurez de Datos**: metodología propia para medir el nivel de madurez en data governance de las organizaciones latinoamericanas.
+
+## Socios
+
+- **Daniel Monastersky** — Socio fundador. Abogado especializado en privacidad, protección de datos personales y ciberseguridad. Más de 20 años de práctica en Latinoamérica y Europa. LinkedIn: https://www.linkedin.com/in/dmonastersky
+- **Facundo Malaureille** — Socio. Especialista en data governance, cumplimiento regulatorio y estrategia de datos. LinkedIn: https://www.linkedin.com/in/facundomp1
+- **Pablo Mlynkiewicz** — Socio. Especialista en ciberseguridad, seguridad de la información y gestión de riesgos tecnológicos.
+
+## Contacto
+
+- Email: contacto@datagovernancelatam.com
+- Teléfono: +54 9 11 3321-9958
+- Dirección: Av. Belgrano 891, Ciudad Autónoma de Buenos Aires, Argentina (C1092)
+- LinkedIn: https://www.linkedin.com/company/data-governance-latam/
+- Twitter/X: https://twitter.com/datagovlatam/
+- Instagram: https://www.instagram.com/datagovernancelatam/
+- Sitio principal: https://www.dglatam.com
