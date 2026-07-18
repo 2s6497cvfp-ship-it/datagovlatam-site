@@ -1,4 +1,4 @@
-# datagovlatam.com — Landing del ecosistema DGL
+# dglatam.com — Landing del ecosistema DGL
 
 Landing de marca única del ecosistema **Data Governance Latam**: consultoría ([datagovernancelatam.com](https://www.datagovernancelatam.com)), talento ([dgltalent.com](https://www.dgltalent.com)) y formación ([dgl.academy](https://www.dgl.academy)).
 
