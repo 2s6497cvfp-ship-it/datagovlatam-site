@@ -52,4 +52,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://www.dglatam.com/sitemap.xml
+Sitemap: https://dglatam.com/sitemap.xml
