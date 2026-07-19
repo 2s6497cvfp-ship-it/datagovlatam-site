@@ -31,4 +31,4 @@ DGL opera tres motores integrados:
 - LinkedIn: https://www.linkedin.com/company/data-governance-latam/
 - Twitter/X: https://twitter.com/datagovlatam/
 - Instagram: https://www.instagram.com/datagovernancelatam/
-- Sitio principal: https://www.dglatam.com
+- Sitio principal: https://www.datagovlatam.com

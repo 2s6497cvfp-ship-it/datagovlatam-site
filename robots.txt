@@ -52,4 +52,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://dglatam.com/sitemap.xml
+Sitemap: https://www.datagovlatam.com/sitemap.xml
