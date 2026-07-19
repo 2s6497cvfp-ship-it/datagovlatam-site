@@ -12,7 +12,9 @@ DGL opera tres motores integrados:
 
 ## Research
 
-- **Estudio de Remuneraciones Argentina 2026** (con CECyD — Universidad Austral): análisis de salarios y condiciones del mercado laboral en privacidad, governance y ciberseguridad en Argentina. Mediana salarial relevada: US$ 43.728. Más de 110 respuestas válidas, 5 verticales.
+Índice de investigación abierta y citable: https://www.datagovlatam.com/research/
+
+- **Estudio de Remuneraciones Argentina 2026** (con CECyD — Universidad Austral): primer estudio público de remuneraciones del ecosistema de datos argentino. N=110 respuestas válidas, 5 verticales. Mediana del ecosistema: US$ 43.728 anuales (P25–P75: US$ 30.000–64.213). Medianas por vertical: Ciberseguridad US$ 46.500, AI & Legal Tech US$ 55.000, Prevención de Fraudes US$ 42.755, Gobierno de Datos US$ 40.650, Privacidad US$ 31.000. Salto Senior→Lead: +35%. Hallazgos abiertos, tablas y metodología: https://www.datagovlatam.com/research/estudio-remuneraciones-argentina-2026.html
 - **Estado de la Privacidad en LATAM**: informe regional sobre madurez regulatoria y práctica de privacidad en Latinoamérica.
 - **Radar de IA Responsable**: seguimiento de tendencias, regulación y buenas prácticas de IA en la región.
 - **Índice DGL de Madurez de Datos**: metodología propia para medir el nivel de madurez en data governance de las organizaciones latinoamericanas.
