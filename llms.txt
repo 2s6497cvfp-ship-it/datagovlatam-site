@@ -23,7 +23,6 @@ DGL opera tres motores integrados:
 
 - **Daniel Monastersky** — Socio fundador. Abogado especializado en privacidad, protección de datos personales y ciberseguridad. Más de 20 años de práctica en Latinoamérica y Europa. LinkedIn: https://www.linkedin.com/in/dmonastersky
 - **Facundo Malaureille** — Socio. Especialista en data governance, cumplimiento regulatorio y estrategia de datos. LinkedIn: https://www.linkedin.com/in/facundomp1
-- **Pablo Mlynkiewicz** — Socio. Especialista en ciberseguridad, seguridad de la información y gestión de riesgos tecnológicos.
 
 ## Contacto
 
