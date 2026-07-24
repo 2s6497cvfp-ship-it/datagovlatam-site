@@ -10,6 +10,13 @@ DGL opera tres motores integrados:
 - [Talento — dgltalent.com](https://www.dgltalent.com): Plataforma de búsqueda y selección de talento especializado en privacidad de datos, ciberseguridad, governance e IA responsable. Matching semántico, informes de compatibilidad y background checks.
 - [Formación — dgl.academy](https://www.dgl.academy): Formación ejecutiva con Universidad Austral. Diplomaturas, cursos y certificaciones en data governance, privacidad y ciberseguridad. Más de 1.500 profesionales formados en 5 países.
 
+## Unidades de práctica
+
+- **DGL Privacy**: Consultoría especializada en privacidad de datos y protección de datos personales. Adecuación normativa (GDPR, Ley 25.326, LGPD y legislaciones de LATAM), DPO as a Service, auditorías de privacidad y gestión de riesgos.
+- **DGL Cyber**: Servicios de ciberseguridad para organizaciones latinoamericanas. Evaluaciones de riesgo, respuesta a incidentes, políticas de seguridad y cumplimiento normativo.
+- **DGL AI**: Asesoría en inteligencia artificial responsable y legal tech. Cumplimiento de regulaciones de IA, evaluaciones de impacto, gobernanza algorítmica y estrategia de IA.
+- **DGL Talent**: Búsqueda y selección especializada de perfiles en privacidad, ciberseguridad, data governance e IA responsable. Matching semántico y background checks para toda la región.
+
 ## Research
 
 Índice de investigación abierta y citable: https://www.datagovlatam.com/research/
@@ -19,10 +26,12 @@ DGL opera tres motores integrados:
 - **Radar de IA Responsable**: seguimiento de tendencias, regulación y buenas prácticas de IA en la región.
 - **Índice DGL de Madurez de Datos**: metodología propia para medir el nivel de madurez en data governance de las organizaciones latinoamericanas.
 
-## Socios
+## Socios y equipo
 
 - **Daniel Monastersky** — Socio fundador. Abogado especializado en privacidad, protección de datos personales y ciberseguridad. Más de 20 años de práctica en Latinoamérica y Europa. LinkedIn: https://www.linkedin.com/in/dmonastersky
 - **Facundo Malaureille** — Socio. Especialista en data governance, cumplimiento regulatorio y estrategia de datos. LinkedIn: https://www.linkedin.com/in/facundomp1
+- **Cintia Palacio** — Data Governance Expert. Especialista en gobierno de datos, calidad de datos y marcos de gestión en organizaciones latinoamericanas.
+- **Sofía Monaco** — Head of DGL Talent. Responsable de la unidad de búsqueda y selección de talento especializado en el ecosistema de datos.
 
 ## Contacto
 
